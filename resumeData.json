@@ -15,7 +15,7 @@
       "state":"(NC)",
       "zip": "(27529)"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://bartcusick.github.io/portfolio_Page/",
     "resumedownload":"Bart_Cusick_FullStack_Resume_2021.pdf",
     "social":[
       {
@@ -49,30 +49,29 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of North Carolina at Chapel Hill",
+        "Study":"Full stack Web Development BootCamp",
+        "graduated":"Feb 2021",
+        "description":"The University of North Carolina at Chapel Hill's Full-Stack Coding Boot Camp provides the ability and knowledge to build dynamic end-to-end web applications. Skills Gained include Design Patterns, Algorithms, HTML 5, CSS 3, JavaScript, jQuery, Responsive Design, Bootstrap, Handlebars, Local Storage,Express.js, MVC, React.js, Heroku, Git, MySQL, MySQL Workbench, MongoDB, Node.js, Express, Security and Session Storage, User Authentication, MERN Stack, QA, SEO, Semantic HTML, Progressive Web Apps, Web Accessibility."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"North Carolina State University",
+        "degree":"Art and Design / Humanities and Social Science",
+        "Attended":"1999-2001"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"GCF LearnFree.org",
+        "title":"Web Content Developer / Flash Developer II ",
+        "years":"Nov 2006 - 2013",
+        "description":"Create interactive e-learning courses for adult literacy. Create illustration, Web Design, 3d design, Game design, and graphic design for www.gcfleanfree.org. Create corporate identity and branding materials."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Global Knowledge",
+        "title":"Flash Developer",
+        "years":"Oct 2005 - Oct 2006",
+        "description":"Create Graphics and Interactive Flash files for custom E-Learning courses. Clients Included E-labcorp, GSK, Intel, and Schneider Electric."
       }
     ],
     "skills":[
