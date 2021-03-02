@@ -130,16 +130,16 @@
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"https://bartcusick.github.io/HomeWork-4/"
+        "title":"EMS",
+        "category":"This CLI application demonstrates a simple CMS. The program uses Node.js, Inquire, console.table, and a MySQL database to display and record user input.",
+        "image":"employeeTracker.png",
+        "url":"https://github.com/bartcusick/Employee_Management_System"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"PomoDuck",
+        "category":"React.js Pomodoro Timer with Duck Debugging",
+        "image":"pomoDuck.png",
+        "url":"http://www.pomoduck.com"
       }
     ]
   }
